@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 My name is Tyler Palmgren, and I'm a Mechatronics and Metrology Engineer at ATT Metrology Solutions. 
+
 I'm currently working on earning my C++ certification through UW. I'm hoping to gain a more professional understanding of the language since my main experience with it is through more surface-level high school and college classes.
+
 I'm also hoping to learn a lot more about automation-focused programming to enhance my skills at work, and expand them to other languages. 
 
 <!--
